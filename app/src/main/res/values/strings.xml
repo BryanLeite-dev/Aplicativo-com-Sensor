@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ForWhat</string>
+    <string name="txtTitulo">FOR WHAT?</string>
+    <string name="txtJogar">CLIQUE AQUI PARA JOGAR!</string>
+    <string name="txtOq">PELO O QUE VOCÊ ESTÁ INDO ATRÁS?</string>
+    <string name="imgmoon">imgMoon</string>
+    <string name="imgnave">imgNave</string>
+    <string name="git">BryanLeite-dev</string>
+    <string name="jogar">Jogar</string>
+    <string name="info">Informações</string>
+    <string name="longitude">Longitude</string>
+    <string name="resposta">__________</string>
+    <string name="cidade">Cidade</string>
+    <string name="latitude">Latitude</string>
+    <string name="minhas_informa_es">MINHAS INFORMAÇÕES</string>
+    <string name="estado">Estado</string>
+    <string name="pais">País</string>
+    <string name="voltar">Voltar</string>
+    <string name="receber">Receber</string>
+    <string name="talking_to_the_moon">TALKING TO THE MOON</string>
+    <string name="todo">TODO</string>
+    <string name="parab_ns_seu_foguete_chegou_lua">PARABÉNS, SEU FOGUETE CHEGOU À LUA!</string>
+    <string name="lan_amento_do_foguete">Lançamento do Foguete</string>
+    <string name="curiosidade">Curiosidade</string>
+</resources>

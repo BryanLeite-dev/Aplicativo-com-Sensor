@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_bold</item>
+        <item>@font/alef_bold</item>
+        <item>@font/anonymous_pro_bold</item>
+        <item>@font/coda</item>
+        <item>@font/squada_one</item>
+    </array>
+</resources>
